@@ -34,8 +34,8 @@ html {
 
 .H1 {
 	background-color: black;
-    height: 65px; 
-    max-width: none;  
+        height: 65px; 
+        max-width: none;  
 }
 
 .H2 {
@@ -79,8 +79,8 @@ html {
 }
 
 .m-r img, a:hover {
-    color: grey;
-    transition: 0.8s;
+	color: grey;
+	transition: 0.8s;
 }
 
 .m-r img{
@@ -132,8 +132,8 @@ html {
 }
 
 .m1 a:hover {
-    color: grey;
-    transition: 0.4s;
+	color: grey;
+	transition: 0.4s;
 }
 
 
@@ -153,9 +153,9 @@ html {
 }
 
 .m2 a:hover {
-    color: #000000c2;
-    opacity: 0.5;
-    transition: 0.4s;
+	color: #000000c2;
+	opacity: 0.5;
+	transition: 0.4s;
 }
 
 .black {
@@ -231,14 +231,14 @@ input, [type=password], [type=phone], [type=email] {
 input[type=submit] {
 	width: 200px;
 	height: 50px;
-    color: white;
-    background-color:black;
-    font-size: 1.3em;
-    border-radius: 10px;
-    border: 2px solid white;
-    padding: 8px;
-    text-decoration: none;
-    transition: 0.8s;
+	color: white;
+	background-color:black;
+	font-size: 1.3em;
+	border-radius: 10px;
+	border: 2px solid white;
+	padding: 8px;
+	text-decoration: none;
+	transition: 0.8s;
 }
 
 input[type=submit]:hover {
@@ -324,8 +324,8 @@ input[type=submit]:hover {
 .tabs {
 	font-size: 0;
 	max-width: 1000px;
-    position:relative;
-    top: 120px;
+	position:relative;
+	top: 120px;
 }
 
 .tabs>input[type="radio"] {
@@ -371,9 +371,9 @@ input[type=submit]:hover {
 
 .Wh {
 	position: relative;
-    bottom: 10px;
-    left: 100px;
-    font-size: 3.5em;
+	bottom: 10px;
+	left: 100px;
+	font-size: 3.5em;
 }
 
 .btn-k1 {
@@ -464,10 +464,10 @@ input[type=submit]:hover {
 	height: 700px;
 	top: 8cm;
 	position: relative;
-    padding: 10px; 
-    background-color: black;
-    width: 100%;
-    color: white;
+	padding: 10px; 
+	background-color: black;
+	width: 100%;
+	color: white;
 }
 
 .b1 {
@@ -524,27 +524,27 @@ ul a:hover {
 }
 
 .U1 {
-  position: relative;
-  top: 140px;
-  left: 35px;
+	position: relative;
+	top: 140px;
+	left: 35px;
 }
 
 .U2 {
-  position: relative;
-  bottom: 178px;
-  left: 330px;
+	position: relative;
+	bottom: 178px;
+	left: 330px;
 }
 
 .U3 {
-  position: relative;
-  bottom: 444px;
-  left: 630px;
+	position: relative;
+	bottom: 444px;
+	left: 630px;
 }
 
 .U4 {
-  position: relative;
-  bottom: 606px;
-  left: 920px;
+	position: relative;
+	bottom: 606px;
+	left: 920px;
 }
 
 .Ic {
